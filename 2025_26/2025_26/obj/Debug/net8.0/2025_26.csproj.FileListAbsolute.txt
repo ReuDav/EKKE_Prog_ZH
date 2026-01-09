@@ -1,0 +1,14 @@
+C:\Users\reuco\source\repos\2025_26\2025_26\bin\Debug\net8.0\2025_26.exe
+C:\Users\reuco\source\repos\2025_26\2025_26\bin\Debug\net8.0\2025_26.deps.json
+C:\Users\reuco\source\repos\2025_26\2025_26\bin\Debug\net8.0\2025_26.runtimeconfig.json
+C:\Users\reuco\source\repos\2025_26\2025_26\bin\Debug\net8.0\2025_26.dll
+C:\Users\reuco\source\repos\2025_26\2025_26\bin\Debug\net8.0\2025_26.pdb
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.AssemblyInfoInputs.cache
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.AssemblyInfo.cs
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.csproj.CoreCompileInputs.cache
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.dll
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\refint\2025_26.dll
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.pdb
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\2025_26.genruntimeconfig.cache
+C:\Users\reuco\source\repos\2025_26\2025_26\obj\Debug\net8.0\ref\2025_26.dll

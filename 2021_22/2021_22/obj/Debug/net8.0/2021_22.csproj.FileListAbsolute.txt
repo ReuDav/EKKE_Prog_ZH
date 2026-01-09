@@ -1,0 +1,14 @@
+C:\Users\reuco\source\repos\2021_22\2021_22\bin\Debug\net8.0\2021_22.exe
+C:\Users\reuco\source\repos\2021_22\2021_22\bin\Debug\net8.0\2021_22.deps.json
+C:\Users\reuco\source\repos\2021_22\2021_22\bin\Debug\net8.0\2021_22.runtimeconfig.json
+C:\Users\reuco\source\repos\2021_22\2021_22\bin\Debug\net8.0\2021_22.dll
+C:\Users\reuco\source\repos\2021_22\2021_22\bin\Debug\net8.0\2021_22.pdb
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.AssemblyInfoInputs.cache
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.AssemblyInfo.cs
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.csproj.CoreCompileInputs.cache
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.dll
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\refint\2021_22.dll
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.pdb
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\2021_22.genruntimeconfig.cache
+C:\Users\reuco\source\repos\2021_22\2021_22\obj\Debug\net8.0\ref\2021_22.dll
